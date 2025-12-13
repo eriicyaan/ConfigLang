@@ -1,0 +1,12 @@
+[
+  {
+    "Server": {
+      "Host": "localhost",
+      "Port": 8080.0,
+      "Max_connections": 100.0,
+      "Settings": {
+        "Timeout": 30.0
+      }
+    }
+  }
+]

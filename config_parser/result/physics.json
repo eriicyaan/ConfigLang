@@ -1,0 +1,21 @@
+[
+  {
+    "Universe": "Observable Universe",
+    "Constants": {
+      "GravitationalConstant": 6.6743e-11,
+      "SpeedOfLight": 299792458.0,
+      "PlanckConstant": 6.62607015e-34
+    },
+    "Earth": {
+      "Name": "Earth",
+      "Mass": 5.972e+24,
+      "Description": "Third planet from the Sun\\nDiameter: ~12,742 km"
+    },
+    "Math": {
+      "PiValue": 3.1415926535,
+      "Sqrt2": 1.4142135623730951,
+      "Euler": 2.7182818284
+    },
+    "Citation": "Formula: E = mc??\\nSource: \"Theory of Relativity\", 1905"
+  }
+]

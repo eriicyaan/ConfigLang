@@ -1,0 +1,14 @@
+[
+  {
+    "Host": "0.0.0.0",
+    "Port": 8080.0,
+    "Environment": "production",
+    "Messages": {
+      "Welcome": "Welcome to the server",
+      "Error": "Error: \\\"server down\\\""
+    },
+    "SSL": {
+      "CertPath": "/etc/ssl/cert.pem"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Root": {
+      "Level1": {
+        "Value": 20.0,
+        "Level2": {
+          "Value": 23.0,
+          "Level3": {
+            "Value": 5.75,
+            "Level4": {
+              "Final": 28.75
+            }
+          }
+        }
+      }
+    }
+  }
+]

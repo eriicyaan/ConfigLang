@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "Eliandra",
+    "Class": "Mage",
+    "Title": "Keeper of Stars",
+    "Level": 15.0,
+    "Stats": {
+      "Intelligence": 20.0,
+      "Mana": 200.0
+    },
+    "Spells": {
+      "Heal": {
+        "Name": "Divine Healing",
+        "Description": "Restores target's health by \\\"150%\\\" of spell power",
+        "ManaCost": 30.0
+      },
+      "Teleport": {
+        "Name": "Teleportation",
+        "Description": "Instantly moves the character to the specified location",
+        "Cooldown": 300.0
+      }
+    },
+    "Dialogue": "Words of wisdom:\\n\"Strength lies in knowledge\""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Character": {
+      "Name": "Thalorin",
+      "Class": "Paladin",
+      "Level": 25.0,
+      "Stats": {
+        "Strength": 12.0,
+        "Dexterity": 13.0,
+        "Intelligence": 22.5,
+        "Health": 1000.0,
+        "Mana": 750.0
+      },
+      "Abilities": {
+        "Slash": {
+          "Name": "Power Slash",
+          "Damage": 24.0,
+          "Cooldown": 5.0
+        },
+        "Heal": {
+          "Name": "Divine Light",
+          "Heal_amount": 33.75,
+          "Mana_cost": 30.0
+        }
+      },
+      "Equipment": {
+        "Weapon": "Sword of Dawn",
+        "Armor": "Plate Armor"
+      }
+    }
+  }
+]
